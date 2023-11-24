@@ -13,8 +13,8 @@ def slurp(filename):
 
 
 setup(
-    name                 = "sphinxcontrib.divparams",
-    version              = "0.0.5",
+    name                 = "divparams",
+    version              = "0.0.7",
     packages             = ["sphinxcontrib", "sphinxcontrib.divparams"],
     namespace_packages   = ["sphinxcontrib"],
     package_dir          = {'': "src"},
